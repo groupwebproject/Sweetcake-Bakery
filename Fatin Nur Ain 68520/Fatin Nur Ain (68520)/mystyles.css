@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+
+<div class="container">
+	<div src="style"style="width:100%;">
+		<div class="bottom-left">
+			<div class="top-left">
+		<div class="top-right">
+	<div class="bottom-right">
+  <div class="centered">
+</div>
+
+
+    <title>portfolio</title>
+  </head>
+  <body>
+  <h1>My ePortfolio</h1>
+
+
+<<nav class="navbar navbar-light bg-light">
+ <!-- Navbar content -->
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="#">Home</a>
+				<button class="navbar-toggler" type="center-left" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+				</button>
+			<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				<div class="navbar-nav">
+					<a class="nav-link active" aria-current="page" href="#">About</a>
+						<a class="nav-link" href="#">Contact</a>
+				<a class="nav-link" href="#">ePortfolio</a>
+			</div>
+		</div>
+	</nav>
+</nav>
+
+
+<div class="jumbotron jumbotron-fluid">
+	<div class="jumbotron bg-cover" style="background-image: linear-gradient(to bottom, rgba(https://placeimg.com/1000/480/nature))">
+		<div class="container text-center">
+			<h1 class="display-4">Fatin Nur Ain</h1>
+		<p class="lead">ePortfolio</p>
+	</div>
+</div>
+
+
+<div style="background-image;">
+<div class="col-md-100%">
+<h1>About</h1>
+	<div class="jumbotron bg-cover" style="background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.9) 100%), url(https://placeimg.com/1000/480/nature)">
+		<div class="container">
+			<h1 class="display-4">Hello!</h1>
+				<p class="lead">What is fashion?</p>
+			<hr class="my-4">
+		<p> I'm Fatin Nur Ain Binti Azmi​. People call me Ain. I was born on the 29th of March in 1998, which means I am 22 years old now. I started school at the age of 4 years old, and I graduate from Universiti Malaysia Sarawak the field of Cognitive Science. Learning new things is one thing which I always enjoy.. .
+
+.</p>
+	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
+</div>
+</div>
+
+
+<div>
+	<h1 class=display-4">What I Do?</h1>
+		<div class="content">
+		<img src="/p1.jpg" style="width:100%">
+	<p>Study fashion trends and anticipate designs that will appeal to consumers.</p>
+</div>
+
+
+<div>
+	<h1 class=display-4">What can i do?</h1>
+		<div class="content">
+			<img src="/p2.jpg" style="width:100%">
+		<p>Create men's, women's, and children's apparel, including casual wear, suits, and sportswear.</p>
+		<p>Decide on a theme for collection.</p>
+		<p>Make market designs to clothing retailers or to consumers.</p>
+	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
+
+
+
+
+<h1>Contact Us</h1>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Email</label>
+    <input type="text" id="lname" name="Email" placeholder="Email..">
+
+    <label for="number">Fon Number</label>
+    <input type="text" id="lname" name="Number" placeholder="Number..">
+ 
+    <input type="submit" value="Submit">
+  </form>
+</div>
