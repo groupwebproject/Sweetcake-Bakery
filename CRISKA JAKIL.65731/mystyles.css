@@ -1,0 +1,196 @@
+/* mystyles.css */
+
+html,
+
+body{
+    height: 100%;
+    background-color: rgb(160, 230, 252);
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.section-content {
+    padding: 5rem 0;
+}
+
+.gambarcover999{
+    background-image: url(img/brad-elvis.png);
+    background-size: cover;
+}
+
+.box{
+    position: relative;
+    max-width: 600px;
+    padding: 50px;
+    background: black;
+    box-shadow: 5px 15px white;
+    color: white;
+    font-weight: 500;
+}
+
+.carousel-container{
+    -webkit-animation: fade;
+    -webkit-animation-duration: 2s;
+    animation-name: fade;
+    animation-duration: 2s;
+}
+
+.navbar-collapse{
+    background-color: rgb(254, 255, 255);
+    font-size: larger;
+    text-align: center;
+    font-size: 20px;
+ 
+}
+.section-content{
+    background-color: rgb(140, 225, 240);
+}
+nav{
+    background-color: white;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+  }
+
+.about-me{
+  height: 500px;
+  border: black solid;
+  background-position: center;
+  
+}
+
+
+.footer-details{
+    text-align: right;
+    background-color: rgb(71, 73, 71);
+}
+  .footer-container{
+      background-color:  rgb(71, 73, 71);
+      color: black;
+  }
+.lead{
+  background-color: whitesmoke ;
+  box-sizing: 10px;
+  font: 50px;
+  text-align: justify;
+}
+
+
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+.bg-light {
+    background-color: cornflowerblue;
+}
+.btn-success-outline{
+    border: 1px solid #212529;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  .row {margin: 0 -5px;
+  }
+  
+  /* Clear floats after the columns */
+  
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px  rgba(0, 0, 0);
+    padding: 16px;
+    text-align: center;
+    background-color: #ffffff83;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+
+  }
+
+  .info{
+    border: black solid 2px;
+    font: 20px bold;
+  }
+
+  .work-experience{
+    font: bold 15px;
+  }
+
+  .table-list{
+    font: bold ;
+  }
+
+  @media (min-width: 768px);
+   .lead {
+      font-size: 50px;
+  }
+  .h5{
+    font-size: 20px;
+  }
+
+  p{
+    font-size: 20px ;
+    text-align: justify
+    
+  }
+
+  h3{
+    font-size: xx-large;
+  }
+
+  h1{
+    font-size: xx-large;
+    border: black solid;
+    background-color: coral;
+  }
+
+  .h2{
+    font-weight: bold;
+  }
+  .p1{
+    font-size: 10px ;
+    font-weight: bold;
+    
+  }
+
